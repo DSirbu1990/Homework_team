@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .user-card {
+    width: 400px;
+    height: 500px;
+    border: 3px;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+  }
+  
+  
+  .presentation_vera {
+    
+    border-style: dashed;
+    background-color: rgb(145, 145, 195);
+  }
+  
+  .presentation_anastasia {
+    border-style: dotted;
+    background-color: rgb(164, 90, 90);
+  }
+
+  .presentation_alexandrU {
+    border-style: dotted;
+    background-color: rgb(18, 120, 57);
+  }
+
+  .presentation_temirlan {
+    border-style: dotted;
+    background-color: rgb(52, 184, 213);
+  }
+
+  .presentation_alexandrI {
+    border-style: dotted;
+    background-color: rgb(83, 117, 229);
+  }
+  
+  .presentation_doina {
+    border-style: solid;
+    background-color: rgb(90, 90, 216);
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+ 
+  
