@@ -57,6 +57,32 @@
     font-style: italic;
   }
   
+  header, footer {
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    width: 100%;
+}
+
+header {
+    top: 0;
+    z-index: 1000;
+}
+
+footer {
+    bottom: 0;
+}
+
+header h1, footer p {
+    margin: 0;
+    font-size: 1.5em;
+    letter-spacing: 0.05em;
+}
+
+
   
  
   
